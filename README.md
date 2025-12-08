@@ -47,15 +47,21 @@ I'm passionate about leveraging technology to solve business problems and drive 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats - Dark Mode" />
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub Stats - Light Mode" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages - Dark Mode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=default#gh-light-mode-only" alt="Top Languages - Light Mode" />
-</p>
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkhatiwada&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+
+[![Manoj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkhatiwada&theme=tokyo-night&hide_border=true)](https://github.com/manojkhatiwada)
+
+</div>
 
 ---
 
