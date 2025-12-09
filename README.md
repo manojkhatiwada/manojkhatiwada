@@ -65,17 +65,32 @@ I'm a Full-Stack Developer bridging the gap between technical innovation and bus
 
 <div align="center">
 
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkhatiwada&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/manojkhatiwada)
 
 </div>
 
 <div align="center">
 
-[![Manoj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkhatiwada&theme=tokyo-night&hide_border=true)](https://github.com/manojkhatiwada)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manojkhatiwada&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=radical)](https://github.com/manojkhatiwada)
+
+</div>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkhatiwada&theme=radical)
+
+</div>
+
+<div align="center">
+
+![Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkhatiwada&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkhatiwada&theme=radical)
 
 </div>
 
