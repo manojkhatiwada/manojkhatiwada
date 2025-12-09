@@ -65,32 +65,23 @@ I'm a Full-Stack Developer bridging the gap between technical innovation and bus
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkhatiwada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/manojkhatiwada)
+### 📈 Contribution Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojkhatiwada&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojkhatiwada&theme=radical)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manojkhatiwada&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkhatiwada&layout=compact&theme=radical)](https://github.com/manojkhatiwada)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkhatiwada&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkhatiwada&theme=radical&utcOffset=8)
 
 </div>
 
 <div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkhatiwada&theme=radical)
-
-</div>
-
-<div align="center">
-
-![Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojkhatiwada&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkhatiwada&theme=radical)
 
 </div>
 
