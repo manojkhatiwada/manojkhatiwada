@@ -21,7 +21,7 @@
 I'm a Full-Stack Developer bridging the gap between technical innovation and business objectives. With a strong foundation in Information Systems and Business Analytics, I specialize in building scalable web applications and transforming complex data into actionable insights.
 
 - 🔭 Currently working as **Web Application Developer II** at **UGA Finance**
-- 🎓 Pursuing **MS in Information Systems & Business Analytics** at Park University (2023-2025)
+- 🎓 **MS in Information Systems & Business Analytics** from Park University (2025)
 - 💼 Experienced in optimizing processes (reduced manual tasks from 20 minutes to 50 seconds)
 - 🌐 Built features for web apps serving **450,000+ monthly visits**
 - 🤝 Open to collaborate on **full-stack development**, **data analytics**, and **process automation** projects
