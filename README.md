@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Manoj Khatiwada 👋</h1>
 
 <p align="center">
-  <em>Business Analytics Enthusiast | Information Systems Professional | Database & Process Optimization Specialist</em>
+  <em>Full-Stack Developer | Transforming Data into Insights | Building Scalable Applications</em>
+</p>
+
+<p align="center">
+  <strong>Web Application Developer II @ UGA Finance | Kansas City, MO</strong>
 </p>
 
 <p align="center">
@@ -14,34 +18,46 @@
 
 ## 🚀 About Me
 
-I'm passionate about leveraging technology to solve business problems and drive process improvements. My focus lies at the intersection of business analytics, information systems, and modern web development.
+I'm a Full-Stack Developer bridging the gap between technical innovation and business objectives. With a strong foundation in Information Systems and Business Analytics, I specialize in building scalable web applications and transforming complex data into actionable insights.
 
-- 🔭 Currently working on front-end projects and Salesforce solutions
-- 🌱 Learning **React**, **Aura Components**, and **Salesforce Admin Tools**
-- 💡 Interested in **Business Analytics**, **Information Systems**, **Database Management**, and **Process Improvement**
-- 🤝 Open to collaborate on **front-end projects** and **business analytics solutions**
-- 💬 Ask me about data analysis, process optimization, or web development
-- 📫 Feel free to reach out for collaboration or just a friendly chat!
+- 🔭 Currently working as **Web Application Developer II** at **UGA Finance**
+- 🎓 Pursuing **MS in Information Systems & Business Analytics** at Park University (2023-2025)
+- 💼 Experienced in optimizing processes (reduced manual tasks from 20 minutes to 50 seconds)
+- 🌐 Built features for web apps serving **450,000+ monthly visits**
+- 🤝 Open to collaborate on **full-stack development**, **data analytics**, and **process automation** projects
+- 💡 Ask me about web development, data visualization, Salesforce solutions, or process optimization
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/manoj-khatiwada) | [Twitter](https://twitter.com/reckless_mk) | [Portfolio](https://manojkhatiwada.github.io)
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-**Frontend Development**
-- React.js
-- HTML/CSS/JavaScript
-- Aura Components
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Business & Analytics**
-- Business Analytics
-- Process Improvement
-- Database Management
-- Information Systems
+### 🎨 Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Tools & Platforms**
-- Salesforce
-- Git & GitHub
-- Data Analysis Tools
+### 🔧 Tools & Platforms
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📊 Specializations
+- **Full-Stack Development** - Java, Angular, TypeScript
+- **Data Analytics & Visualization** - Tableau, R, Python, Excel
+- **Salesforce Development** - Apex, Lightning Components
+- **Process Automation** - Workflow optimization, efficiency improvements
+- **Web Applications** - High-traffic applications (450K+ monthly visits)
 
 ---
 
@@ -68,6 +84,21 @@ I'm passionate about leveraging technology to solve business problems and drive 
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, business analysts, and tech enthusiasts. Feel free to reach out!
+
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-khatiwada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/reckless_mk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://manojkhatiwada.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://hackerrank.com/manojkhatiwada" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
 <p align="center">
   <i>Open to interesting projects and collaboration opportunities!</i>
